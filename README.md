@@ -1,2 +1,2 @@
 # ms-email
-📩 Microservice para envio de email
+📩 Microservice for sending email
